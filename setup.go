@@ -5,7 +5,6 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	"google.golang.org/appengine"
 )
 
 func main() {
@@ -27,5 +26,4 @@ func main() {
 	})
 
 	r.Run()
-	appengine.Main()
 }
