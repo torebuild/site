@@ -60,12 +60,12 @@ params:
         Content: Welcome to my blog
 
     socialIcons:
-        - name: twitter
-          url: "https://twitter.com/"
-        - name: stackoverflow
-          url: "https://stackoverflow.com"
+        # - name: twitter
+          # url: "https://twitter.com/"
+        # - name: stackoverflow
+          # url: "https://stackoverflow.com"
         - name: github
-          url: "https://github.com/"
+          url: "https://github.com/torebuild"
 
     analytics:
         google:
