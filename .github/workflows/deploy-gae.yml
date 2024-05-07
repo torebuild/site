@@ -7,7 +7,7 @@ jobs:
   BuildAndDeploy:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3.0.2
+    - uses: actions/checkout@v4.1.5
       with:
         submodules: true
         fetch-depth: 0
